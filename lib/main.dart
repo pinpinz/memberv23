@@ -7,7 +7,7 @@ import 'package:member/main_page.dart';
 import 'package:member/location_page.dart';
 
 void main() => runApp(const StarbucksApp());
-var ip = "http://202.51.121.181:3030/service/";
+// var ip = "http://202.51.121.181:3030/ser/";
 
 class StarbucksApp extends StatefulWidget {
   const StarbucksApp({Key? key}) : super(key: key);
